@@ -1,0 +1,82 @@
+2021-03-06 10:51:01,691 [12540] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 10:51:01,691 [12540] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 10:51:01,691 [12540] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 10:51:01,693 [12540] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 10:51:01,693 [12540] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 10:51:01,694 [12540] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 11:44:09,047 [12540] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-03-06 11:44:09,098 [12540] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-03-06 11:44:09,384 [12540] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\typing.py
+2021-03-06 11:44:09,407 [12540] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2021-03-06 11:56:19,347 [5400] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 11:56:19,347 [5400] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 11:56:19,347 [5400] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 11:56:19,349 [5400] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 11:56:19,349 [5400] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 11:56:19,349 [5400] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:13:04,230 [8636] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:13:04,231 [8636] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:13:04,231 [8636] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:13:04,234 [8636] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:13:04,234 [8636] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:13:04,234 [8636] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:32:09,836 [100] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:32:09,836 [100] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:32:09,836 [100] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:32:09,839 [100] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:32:09,840 [100] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:32:09,843 [100] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:36:05,558 [6840] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:36:05,559 [6840] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:36:05,559 [6840] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:36:05,563 [6840] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:36:05,564 [6840] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:36:05,565 [6840] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:41:52,200 [11836] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:41:52,200 [11836] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:41:52,200 [11836] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:41:52,203 [11836] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:41:52,204 [11836] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:41:52,204 [11836] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:42:41,201 [7108] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:42:41,202 [7108] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:42:41,202 [7108] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:42:41,204 [7108] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:42:41,205 [7108] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:42:41,205 [7108] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:43:17,883 [10812] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:43:17,883 [10812] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:43:17,884 [10812] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:43:17,886 [10812] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:43:17,887 [10812] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:43:17,888 [10812] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:53:42,026 [11508] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:53:42,026 [11508] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:53:42,026 [11508] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:53:42,029 [11508] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:53:42,029 [11508] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:53:42,029 [11508] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 12:54:37,340 [6360] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 12:54:37,340 [6360] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 12:54:37,340 [6360] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 12:54:37,342 [6360] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 12:54:37,343 [6360] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 12:54:37,343 [6360] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 13:15:09,190 [2696] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 13:15:09,191 [2696] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:09,191 [2696] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:09,192 [2696] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 13:15:09,193 [2696] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 13:15:09,193 [2696] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 13:15:09,704 [2696] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 13:15:09,704 [2696] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:09,705 [2696] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:09,707 [2696] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 13:15:09,708 [2696] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 13:15:09,708 [2696] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-06 13:15:12,857 [15704] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-06 13:15:12,857 [15704] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:12,857 [15704] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-06 13:15:12,859 [15704] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-06 13:15:12,859 [15704] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-06 13:15:12,860 [15704] DEBUG    root:97: [JupyterRequire] Registering comm targets.
