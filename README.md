@@ -1,5 +1,5 @@
 # Wycena-spolki-gieldowej
-Wycena wybranej spóki giełdowej z wykorzystaniem 3 metod:
+## Wycena wybranej spóki giełdowej z wykorzystaniem 3 metod:
 
 ### 1. Metoda oparta o zdyskontowane przepływy pieniężne (DCF)
 Zdyskontowane przepływy pieniężne (ang. discounted cash flow, DCF) stanowią jedną z metod wykorzystywaną do wyceny inwestycji, spółki lub innych aktywów bazującą na podejściu rachunku wartości pieniądza w czasie. Polega na szacowaniu i dyskontowaniu wszystkich przyszłych przepływów pieniężnych w celu określenia ich wartości bieżącej. Poziom stopy dyskontowej jest kosztem kapitału i uwzględnia ocenę ryzyka dotyczącego przyszłych przepływów pieniężnych.
