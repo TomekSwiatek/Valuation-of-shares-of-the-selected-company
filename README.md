@@ -1,4 +1,4 @@
-# Valuation-of-shares-of-the-selected-company
+# Valuation of shares of the selected company
 ## Valuation of a selected listed company using 3 methods:
 
 ### 1. Metoda oparta o zdyskontowane przepływy pieniężne (DCF)
