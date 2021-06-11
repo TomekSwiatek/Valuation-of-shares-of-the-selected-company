@@ -170,3 +170,40 @@
 2021-03-11 12:53:52,010 [11592] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2021-03-11 12:53:52,011 [11592] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2021-03-11 12:53:52,011 [11592] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-10 18:41:11,657 [15620] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-10 18:41:11,666 [15620] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-10 18:41:11,666 [15620] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-10 18:41:11,668 [15620] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-10 18:41:11,668 [15620] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-10 18:41:11,669 [15620] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-10 18:41:12,179 [15620] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-10 18:41:12,179 [15620] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-10 18:41:12,179 [15620] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-10 18:41:12,181 [15620] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-10 18:41:12,182 [15620] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-10 18:41:12,182 [15620] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-11 17:41:49,068 [13672] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-11 17:41:49,068 [13672] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-11 17:41:49,069 [13672] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-11 17:41:49,070 [13672] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-11 17:41:49,072 [13672] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-11 17:41:49,072 [13672] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-11 17:41:49,581 [13672] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-11 17:41:49,582 [13672] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-11 17:41:49,582 [13672] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-11 17:41:49,586 [13672] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-11 17:41:49,586 [13672] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-11 17:41:49,586 [13672] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-11 17:53:40,608 [13672] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-06-11 17:53:40,654 [13672] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-06-11 17:53:42,505 [13672] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\typing.py
+2021-06-11 17:53:42,528 [13672] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: C:\Users\30041519\Anaconda3_8\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2021-06-11 17:57:32,317 [13672] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2021-06-11 17:57:32,319 [13672] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 5; new: 8
+2021-06-11 17:57:32,319 [13672] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[1:1] new[1:1]
+2021-06-11 17:57:32,319 [13672] DEBUG    parso.python.diff:378: [JupyterRequire] copy old[1:1] new[1:1]
+2021-06-11 17:57:32,319 [13672] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[2:2] new[2:5]
+2021-06-11 17:57:32,320 [13672] DEBUG    parso.python.diff:421: [JupyterRequire] parse_part from 2 to 9 (to 7 in part parser)
+2021-06-11 17:57:32,320 [13672] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[equal] old[3:3] new[6:6]
+2021-06-11 17:57:32,321 [13672] DEBUG    parso.python.diff:296: [JupyterRequire] -> code[replace] old[4:5] new[7:8]
+2021-06-11 17:57:32,321 [13672] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
